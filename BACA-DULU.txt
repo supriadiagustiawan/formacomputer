@@ -1,0 +1,30 @@
+FORMA — DEMO WEBSITE RENTAL
+
+Cara membuka
+1. Ekstrak ZIP.
+2. Buka index.html di Safari, Chrome, atau Edge.
+3. Seluruh gambar dan aset tersedia lokal. Tidak perlu instalasi.
+
+Untuk pitching
+- Buka katalog, coba filter Laptop/Komputer/Aksesori.
+- Ubah tarif menjadi harian, mingguan, atau bulanan.
+- Pilih Sewa, tentukan tanggal, unit, dan durasi.
+- Tunjukkan estimasi dan ringkasan pesanan.
+- Di bagian paling bawah, buka Pengaturan demo untuk mengganti nama usaha dan WhatsApp toko.
+- Nomor yang diawali 08 otomatis diubah menjadi 628.
+- Pengaturan disimpan hanya di browser/perangkat yang sedang dipakai.
+- Tanpa nomor toko, ringkasan dapat dilihat; tombol WhatsApp baru aktif setelah nomor diisi.
+- Jika fitur salin tidak tersedia saat membuka file lokal, salin teks ringkasan secara manual.
+
+Fitur
+Katalog 6 perangkat; kategori; tarif 3 periode; tabel harga; unduh CSV; layanan personal, bisnis, dan acara; FAQ; formulir sewa; estimasi otomatis; tanggal pengembalian; opsi antar/ambil; pratinjau pesan WhatsApp; desain responsif.
+
+Unggah ke hosting statis
+Unggah seluruh isi folder ini, termasuk index.html, style.css, app.js, dan folder assets. Tidak membutuhkan proses build atau server aplikasi.
+
+Konten
+Nama Forma, tarif, spesifikasi, dan rancangan layanan adalah contoh untuk presentasi. Belum terhubung ke stok, pembayaran, database pesanan, maupun admin panel. Formulir tidak membuat reservasi. Harga asli, syarat sewa, alamat toko, dan area layanan perlu disesuaikan sebelum penggunaan bisnis.
+Foto MacBook bersumber dari halaman resmi Apple; ilustrasi lain dibuat untuk demo. Visual MacBook bersifat ilustratif, bukan bukti varian stok tertentu. Tidak berafiliasi dengan Apple.
+
+Uji yang dilakukan
+Pemeriksaan sintaks JavaScript; respons halaman; tampilan desktop dan ponsel 390px; filter aksesori; perpindahan periode tarif; formulir pengantaran; ringkasan pesanan. Contoh hitungan: 3 Laptop Office x 2 minggu x Rp400.000 = Rp2.400.000, 21 Oktober sampai 4 November 2026. Pesan WhatsApp belum dikirim.
